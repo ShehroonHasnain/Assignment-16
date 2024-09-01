@@ -1,0 +1,27 @@
+.eximg{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 60px;
+    
+   
+}
+.eximgimg{
+    width: 10%;
+}
+.expertisecontainer{
+    color: rgb(255, 255, 255);
+    margin-top: 100px;
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 10px;
+    padding: 40px 10%;
+    background-color: rgba(240, 255, 255, 0.057);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.expertiseitem h2 {
+    padding-bottom: 20px;
+}

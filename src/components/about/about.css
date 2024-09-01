@@ -1,0 +1,29 @@
+.abimg {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 60px;
+
+
+}
+
+.abimgimg {
+    width: 10%;
+}
+
+.aboutcontainer {
+    color: rgb(255, 255, 255);
+    margin-top: 100px;
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 10px;
+    padding: 40px 10%;
+    background-color: rgba(240, 255, 255, 0.057);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.aboutitem h2{
+    padding: 20px;
+}
